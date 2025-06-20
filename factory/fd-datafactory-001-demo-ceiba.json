@@ -1,0 +1,9 @@
+{
+	"name": "fd-datafactory-001-demo-ceiba",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60cba1ba-3375-4316-af9e-c872fd9d6eff",
+		"tenantId": "3c5be194-3676-4ec3-8d25-2c05a7fa1881"
+	}
+}
